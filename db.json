@@ -1,6 +1,6 @@
 {
   "customers": [
-      {"id":1,"phone":"819021664411","name":"Vonage","device_name":"Device Name 1","device_id":"12345678"},
+      {"id":1,"phone":"819021664411","name":"ヴォネージ","device_name":"血圧計","device_id":"12345678"},
       {"id":2,"phone":"8112345678","name":"Tokyo","device_name":"Device Name 2","device_id":"87654321"}
     ]
 }
