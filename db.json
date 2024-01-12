@@ -1,6 +1,6 @@
 {
   "customers": [
       {"id":1,"phone":"819021664411","name":"東京帝都","device_name":"血圧計","device_id":"12345678"},
-      {"id":2,"phone":"8112345678","name":"Tokyo","device_name":"Device Name 2","device_id":"87654321"}
+      {"id":2,"phone":"8112345678","name":"大江戸","device_name":"MRI","device_id":"87654321"}
     ]
 }
